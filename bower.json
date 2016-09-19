@@ -1,0 +1,20 @@
+{
+  "name": "dash",
+  "homepage": "https://github.com/devs-n9/dash",
+  "authors": [
+    "Vladimir <devs.n9@gmail.com>"
+  ],
+  "description": "dashboard for online game",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.6"
+  }
+}
